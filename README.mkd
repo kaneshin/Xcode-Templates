@@ -1,10 +1,17 @@
 # Xcode-Templates
 
-## Usage
+- Licensed Class
+
 
 ## Installation
 
 Put directories into `~/Library/Developer/Xcode/Templates/File Templates`.
+
+
+## Support
+
+- Swift
+- Objective-C
 
 
 ---

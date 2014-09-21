@@ -1,0 +1,15 @@
+# Xcode-Templates
+
+## Usage
+
+## Installation
+
+Put directories into `~/Library/Developer/Xcode/Templates/File Templates`.
+
+
+---
+
+## Author
+
+- [Shintaro Kaneko](https://github.com/kaneshin) <kaneshin0120@gmail.com>
+

@@ -5,7 +5,7 @@
 import UIKit
 import XCTest
 
-class ___FILENAME___: XCTestCase {
+class ___FILEBASENAME___: XCTestCase {
 
     override func setUp() {
         super.setUp()
